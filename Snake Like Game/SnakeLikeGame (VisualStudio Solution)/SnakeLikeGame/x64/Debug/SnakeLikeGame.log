@@ -1,0 +1,7 @@
+﻿  SnakeLikeGame.cpp
+C:\Users\clayn\source\repos\SnakeLikeGame\SnakeLikeGame\SnakeLikeGame.cpp(187,22): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  SnakeLikeGame.vcxproj -> C:\Users\clayn\source\repos\SnakeLikeGame\x64\Debug\SnakeLikeGame.exe
